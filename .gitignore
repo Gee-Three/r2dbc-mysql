@@ -8,6 +8,10 @@ target/
 *.jar
 .mvn/wrapper/MavenWrapperDownloader.java
 
+### Gradle
+.gradle/
+build/
+
 ### IntelliJ IDEA
 
 *.iml
